@@ -1,0 +1,40 @@
+.work , .aboutme , .contactme{
+    display: none;
+}
+
+.aboutme, .contactme, .work, .home{
+    background-image: url("IMG_7072.JPG");
+}
+section{
+    text-align: center;
+    margin: 0px 250px 0px 250px;
+    background-color: white;
+    
+}
+#positive{
+    width: 100%;
+    height: 500;
+    background-color:  black;
+}
+ .centered {
+    display: none;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-shadow: 3px 3px black;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: burlywood;
+}
+.disclaimer{
+    display: none;
+}
+p{
+    font-size: 20px;
+}
